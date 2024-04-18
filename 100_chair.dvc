@@ -1,6 +1,6 @@
 outs:
-- md5: 42cf760d15a58eb3cde8afc16051aff9.dir
-  size: 5992537
-  nfiles: 20
+- md5: b8f84605f95374beb5e396795ebf2d95.dir
+  size: 6262815
+  nfiles: 21
   hash: md5
   path: 100_chair
