@@ -1,0 +1,6 @@
+outs:
+- md5: 77003a1de0af4757c18f5e086c8f70d1.dir
+  size: 6086246
+  nfiles: 40
+  hash: md5
+  path: 100_chair_2
